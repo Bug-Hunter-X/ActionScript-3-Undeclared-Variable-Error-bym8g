@@ -1,0 +1,6 @@
+public function someMethod():void {
+    var someVariable:String = "some value"; // Declare and initialize someVariable
+    // ... some code ...
+    trace("some variable:"+someVariable);
+    // ... some more code ...
+}
